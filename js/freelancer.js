@@ -66,9 +66,11 @@
 var images = [];
 
 function preload() {
-    for (var i = 1; i < 163; i++) {
+    for (var i = 1; i < 163 ; i++) {
+       if (i % 6 == 0) {
         images[i] = new Image();
         images[i].src = "/img/logoseq/image-" + i.toString().padStart(4, '0') + ".png"
+       }
     }
 }
 preload();
@@ -117,8 +119,10 @@ $(window).scroll(
         var cH = Math.ceil(fromTop/45)
         // var cH2 = cH % 163;
         var cH2 = (cH % 27)*6;
-        $(".logotxt").html(images[cH2].src );
-        $("#logo").attr('src', images[cH2].src);
+        if (images[cH2]) {
+          $(".logotxt").html(images[cH2].src );
+          $("#logo").attr('src', images[cH2].src);
+        }
     }
 
 
