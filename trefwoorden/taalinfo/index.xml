@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taalinfo on Rusland 1</title>
+    <link>//localhost:1313/trefwoorden/taalinfo/</link>
+    <description>Recent content in Taalinfo on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/trefwoorden/taalinfo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De letter Ë</title>
+      <link>//localhost:1313/taal/20200219-de-letter-e/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/taal/20200219-de-letter-e/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;yo&#34;&gt;Yo&lt;/h4&gt;&#xA;&lt;p&gt;De klank is niet moeilijk. Als de Yo in York, zegt (de Engelse) &lt;a href=&#34;https://en.wikipedia.org/wiki/Yo_(Cyrillic)&#34;&gt;Wikipedia&lt;/a&gt;. De &lt;a href=&#34;https://nl.wikipedia.org/wiki/Russisch_alfabet&#34;&gt;Nederlandse versie&lt;/a&gt; houdt het op de jo in jokken. Russische bronnen geven vaak &lt;strong&gt;ёжик&lt;/strong&gt; (&lt;em&gt;jozjik&lt;/em&gt;, egel) of &lt;strong&gt;ёлка&lt;/strong&gt; (&lt;em&gt;jolka&lt;/em&gt;, kerstboom) als voorbeeld. Er zijn niet heel veel woorden die beginnen met een ё. Wel is in het Russisch overal een filmpje van, dus &lt;a href=&#34;https://youtu.be/GaYdtxJgR84&#34;&gt;hier&lt;/a&gt; zijn er vijftien (Russian with Nastya, 2018, 3 m).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyrillisch</title>
+      <link>//localhost:1313/taal/190420-cyrillisch/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/taal/190420-cyrillisch/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;p&gt;Drie korte clips (meer onder de video&amp;rsquo;s) over de geschiedenis van het cyrillisch.&lt;/p&gt;&#xA;&lt;br/&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cyril and Slavic Christianity – Christian History Made Easy&lt;/strong&gt; &lt;br/&gt;&#xA;(Rose Publishing, 2012, 2 m)&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/8V7RoZG75hM&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;br/&gt;&#xA;&lt;br/&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cyril and Methodices&lt;/strong&gt; &lt;br/&gt;&#xA;(Museum of the Bible, 2017, 1 m)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

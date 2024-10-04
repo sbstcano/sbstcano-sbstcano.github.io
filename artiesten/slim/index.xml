@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slim on Rusland 1</title>
+    <link>//localhost:1313/artiesten/slim/</link>
+    <description>Recent content in Slim on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/artiesten/slim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centr 3x</title>
+      <link>//localhost:1313/muziek/190419-centr-3x/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/190419-centr-3x/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;padarok&#34;&gt;Padarok&lt;/h4&gt;&#xA;&lt;p&gt;Ook daarvandaan:  ‘Initially, they wrote an unofficial album &lt;strong&gt;Подарок&lt;/strong&gt; (&lt;em&gt;Podarok&lt;/em&gt; / Gift), but only 13 copies of it were made and given up to their close friends for the New Year.’&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Качели&lt;/strong&gt; (&lt;em&gt;katsjeli&lt;/em&gt;) betekent schommel en zo heet de eerste plaat (uit 2007, meer op &lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%B5%D0%BB%D0%B8_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC_Centr)&#34;&gt;Википедия&lt;/a&gt; = Wikipedia in Russisch). Dit is het titelnummer, en te mooi om onvermeld te laten zijn de woorden &lt;strong&gt;свои качели качают каждого&lt;/strong&gt;. Google Translate maakt daar ‘Swing elke swing’ van en dat is te mooi om iets op aan te merken.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slim – Onlangs</title>
+      <link>//localhost:1313/muziek/190417-slim-onlangs/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/190417-slim-onlangs/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;chaos-en-verval&#34;&gt;Chaos en verval&lt;/h4&gt;&#xA;&lt;p&gt;De ijverig gefabriceerde fanclip geeft een kort college Russische onlangs-geschiedenis. Chaos en verval zijn de centrale thema’s; in amper 3 minuten passeert meer van dat dan hier kan worden toegelicht. Boris Jeltsin komt er slecht vanaf, maar doet wel een leuk dansje.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

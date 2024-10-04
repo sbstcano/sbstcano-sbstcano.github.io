@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on Rusland 1</title>
+    <link>//localhost:1313/genres/</link>
+    <description>Recent content in Genres on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Punk</title>
+      <link>//localhost:1313/genres/punk/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/punk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alternatief</title>
+      <link>//localhost:1313/genres/alternatief/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/alternatief/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pop</title>
+      <link>//localhost:1313/genres/pop/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hard</title>
+      <link>//localhost:1313/genres/hard/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/hard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wave</title>
+      <link>//localhost:1313/genres/wave/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/wave/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Akoestisch</title>
+      <link>//localhost:1313/genres/akoestisch/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/akoestisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Special</title>
+      <link>//localhost:1313/genres/special/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/special/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rock</title>
+      <link>//localhost:1313/genres/rock/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/rock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elektro</title>
+      <link>//localhost:1313/genres/elektro/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/elektro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Klassiek</title>
+      <link>//localhost:1313/genres/klassiek/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/klassiek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rap</title>
+      <link>//localhost:1313/genres/rap/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/genres/rap/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

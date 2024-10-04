@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anazondaz on Rusland 1</title>
+    <link>//localhost:1313/artiesten/anazondaz/</link>
+    <description>Recent content in Anazondaz on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/artiesten/anazondaz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anacondaz 4x</title>
+      <link>//localhost:1313/muziek/20201215-anacondaz-4x/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/20201215-anacondaz-4x/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;всё-хорошо-2019&#34;&gt;Всё хорошо (2019)&lt;/h4&gt;&#xA;&lt;p&gt;Van &lt;strong&gt;Мои дети не будут скучать&lt;/strong&gt; (2019).&lt;/p&gt;&#xA;&lt;p&gt;    &lt;strong&gt;Всё хорошо. Повеситься или повесить ружьё?&lt;/strong&gt;&lt;br/&gt;&#xA;    &lt;strong&gt;Да ну, что за мысли. Ведь всё хорошо! (всё хорошо!)&lt;/strong&gt;&lt;br/&gt;&#xA;    &lt;strong&gt;Перезимовали за гаражом, радуюсь так, будто не заражён&lt;/strong&gt;&lt;br/&gt;&#xA;    &lt;strong&gt;Ныряли ведь в пруд голышом – значит Бог защитит&lt;/strong&gt;&lt;br/&gt;&#xA;    &lt;strong&gt;Значит всё хорошо&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

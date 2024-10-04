@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RussianLearnsYou on Rusland 1</title>
+    <link>//localhost:1313/trefwoorden/russianlearnsyou/</link>
+    <description>Recent content in RussianLearnsYou on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/trefwoorden/russianlearnsyou/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roesski sleng</title>
+      <link>//localhost:1313/taal/20200802-roesski-sleng/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/taal/20200802-roesski-sleng/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;in-delen&#34;&gt;In delen&lt;/h4&gt;&#xA;&lt;p&gt;Van Dale houdt het op ‘de karakteristieke, onconventionele en soms platte woorden en uitdrukkingen gebruikt door de leden van een sociale groep’. Mooie taal, maar die bevestigt eerder de onwerkbare breedte van het onderwerp dan dat het voorziet in wat afbakening. Aan de veilige kant raakt het aan jargon, spreektaal en uitdrukkingen. Aan de overkant aan grofheden van uiteenlopende aard en intensiteit. Te veel voor in één keer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

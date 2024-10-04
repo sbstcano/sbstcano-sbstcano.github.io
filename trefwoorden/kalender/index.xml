@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalender on Rusland 1</title>
+    <link>//localhost:1313/trefwoorden/kalender/</link>
+    <description>Recent content in Kalender on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/trefwoorden/kalender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russische kalenderwoorden: maanden en dagen</title>
+      <link>//localhost:1313/taal/20201118-russische-kalenderwoorden-maanden-en-dagen/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/taal/20201118-russische-kalenderwoorden-maanden-en-dagen/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h3 id=&#34;januari-december&#34;&gt;Januari-december&lt;/h3&gt;&#xA;&lt;p&gt;De maanden van het jaar maar eerst. Die zijn niet zo heel interessant. Dat wil zeggen, niet veel interessanter dan de namen die je gewend bent. De herkomst is gelijk: Romeinse goden en godinnen (januari, maart, mei, juni), woorden (februari, april), keizers (juli, augustus) en cijfers (september t/m december). Zie &lt;a href=&#34;https://onzetaal.nl/taaladvies/namen-van-maanden/&#34;&gt;Namen van maanden&lt;/a&gt; bij Onze Taal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lobnya on Rusland 1</title>
+    <link>//localhost:1313/trefwoorden/lobnya/</link>
+    <description>Recent content in Lobnya on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/trefwoorden/lobnya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Стрела – Brand mooi (Гореть красиво)</title>
+      <link>//localhost:1313/muziek/20210129-strela-brand-mooi/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/20210129-strela-brand-mooi/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;brand&#34;&gt;Brand&lt;/h4&gt;&#xA;&lt;p&gt;De wereld staat in brand (&lt;strong&gt;Мир в огне&lt;/strong&gt;) en wat doe je er nog tegen. Of met wie.&lt;/p&gt;&#xA;&lt;p&gt;  &lt;strong&gt;Тут никого нет&lt;/strong&gt;, hier is niemand,&lt;br/&gt;&#xA;  &lt;strong&gt;Мы смотрим на мир&lt;/strong&gt;, we kijken naar de wereld&lt;br/&gt;&#xA;  &lt;strong&gt;Каждый для каждого&lt;/strong&gt;, ieder voor zich&lt;br/&gt;&#xA;  &lt;strong&gt;На то, как красиво горит&lt;/strong&gt;, naar hoe mooi het brandt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

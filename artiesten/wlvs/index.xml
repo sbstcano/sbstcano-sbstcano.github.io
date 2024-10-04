@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WLVS on Rusland 1</title>
+    <link>//localhost:1313/artiesten/wlvs/</link>
+    <description>Recent content in WLVS on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/artiesten/wlvs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WLVS – Mirages (Миражи) en de twee daarvoor</title>
+      <link>//localhost:1313/muziek/20201229-wlvs-mirages/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/20201229-wlvs-mirages/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;p&gt;Nog net in 2020 verscheen &lt;strong&gt;Миражи&lt;/strong&gt;, en dat is een goed moment voor een drieluik. Anders dan hier gebruikelijk van oud naar nieuw.&lt;/p&gt;&#xA;&lt;br/&gt;&#xA;&lt;h4 id=&#34;lost-kids&#34;&gt;Lost Kids&lt;/h4&gt;&#xA;&lt;p&gt;Van maart 2019. Met kroeta clip en pro-life boodschap (&lt;strong&gt;сейчас мы выбираем жить&lt;/strong&gt;) ondanks bijvoorbeeld verloren zijn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WLVS – Aan stukken (В клочья)</title>
+      <link>//localhost:1313/muziek/20200214-wlvs-aan-stukken/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/20200214-wlvs-aan-stukken/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;ik-en-jij&#34;&gt;&lt;strong&gt;Ik en jij&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;В клочья&lt;/strong&gt; komt van &lt;a href=&#34;https://wlvs.bandcamp.com/album/i&#34;&gt;Дотла: часть 1&lt;/a&gt; (2016) en is bovengemiddeld toegankelijk. En uit de korte tekst spreekt hoop, ondanks van alles. &lt;strong&gt;Ты сможешь спасти остатки этой разодранной в клочья души&lt;/strong&gt;: jij kunt redden de restanten van deze aan stukken gescheurde ziel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vólan – Begin (Начало)</title>
+      <link>//localhost:1313/muziek/190524_vo%CC%81lan--%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/muziek/190524_vo%CC%81lan--%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;p&gt;    &lt;strong&gt;театр закрыт, актёры распущены,&lt;br&gt;&#xA;    мне не вернуть того, что упущено.&lt;br&gt;&#xA;    последний акт и падает занавес,&lt;br&gt;&#xA;    прощай, иллюзий мир, я начинаю всё заново&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;br/&gt;&#xA;&lt;p&gt;    theater gesloten, acteurs ontheven,&lt;br&gt;&#xA;    ik krijg niet terug wat is verloren.&lt;br&gt;&#xA;    laatste akte en het gordijn valt,&lt;br&gt;&#xA;    vaarwel, illusiewereld, ik begin geheel opnieuw.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

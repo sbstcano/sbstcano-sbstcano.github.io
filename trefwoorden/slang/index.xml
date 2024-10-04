@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slang on Rusland 1</title>
+    <link>//localhost:1313/trefwoorden/slang/</link>
+    <description>Recent content in Slang on Rusland 1</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/trefwoorden/slang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spreek- en informele taal (разговорный язык)</title>
+      <link>//localhost:1313/taal/20210120-russische-spreektaal-russisch-informeel/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/taal/20210120-russische-spreektaal-russisch-informeel/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;p&gt;Dit gaat over spreek- en informele taal, bijna een taal op zich. Eerder gespositioneerd als &lt;a href=&#34;https://rusland1.nl/taal/20200802-roesski-sleng/&#34;&gt;de veilige kant&lt;/a&gt; van slang, uitziend naar het deel dat dan moet volgen.&lt;/p&gt;&#xA;&lt;br/&gt;&#xA;&lt;p&gt;&lt;strong&gt;How Russians really speak Russian? Slang, Stress, Reductions&lt;/strong&gt;&lt;br/&gt;&#xA;(Russian With Max, 2019, 15 m)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roesski sleng</title>
+      <link>//localhost:1313/taal/20200802-roesski-sleng/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/taal/20200802-roesski-sleng/</guid>
+      <description>&lt;br/&gt;&#xA;&lt;h4 id=&#34;in-delen&#34;&gt;In delen&lt;/h4&gt;&#xA;&lt;p&gt;Van Dale houdt het op ‘de karakteristieke, onconventionele en soms platte woorden en uitdrukkingen gebruikt door de leden van een sociale groep’. Mooie taal, maar die bevestigt eerder de onwerkbare breedte van het onderwerp dan dat het voorziet in wat afbakening. Aan de veilige kant raakt het aan jargon, spreektaal en uitdrukkingen. Aan de overkant aan grofheden van uiteenlopende aard en intensiteit. Te veel voor in één keer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
