@@ -6,7 +6,16 @@
     <description>Recent content in Artiesten on Rusland 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/en/artiesten/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/en/artiesten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zemfira</title>
+      <link>/en/artiesten/zemfira/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/en/artiesten/zemfira/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Criminal State</title>
       <link>/en/artiesten/criminal-state/</link>
@@ -1255,6 +1264,15 @@
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/en/artiesten/%D0%B1%D0%B8-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Свидание</title>
+      <link>/en/artiesten/%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/artiesten/%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     

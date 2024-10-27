@@ -6,7 +6,16 @@
     <description>Recent content in Genres on Rusland 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-NL</language>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/nl/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/nl/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pop</title>
+      <link>/nl/genres/pop/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/nl/genres/pop/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>punk</title>
       <link>/nl/genres/punk/</link>
@@ -22,15 +31,6 @@
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>/nl/genres/alternatief/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pop</title>
-      <link>/nl/genres/pop/</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/nl/genres/pop/</guid>
       <description></description>
     </item>
     
